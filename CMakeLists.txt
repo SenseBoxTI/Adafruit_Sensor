@@ -4,4 +4,4 @@ idf_component_register(SRCS "Adafruit_Sensor.cpp"
                        INCLUDE_DIRS "."
                        REQUIRES arduino)
 
-project(Adafruit_BusIO)
+project(adafruit_sensor)
